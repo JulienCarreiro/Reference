@@ -1,4 +1,4 @@
-## Links to stuff we shlould buy!
+## Links to stuff we should buy!
 
 ### Mouser
 - [Throw-in watel level sensor](https://www.mouser.com/ProductDetail/DFRobot/KIT0139?qs=PzGy0jfpSMuk6fgHiEc9Rw%3D%3D)
