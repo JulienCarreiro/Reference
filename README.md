@@ -3,6 +3,8 @@ random files and stuff
 
 [LIST OF STUFF TO BUY!!](buy.md)
 
+[Slack parking thread screenshot](rev-parking.png)
+
 ### Resources
 - [REV reading list](https://docs.google.com/document/d/1tJlTiknf-vGsDc-3-8nxgw7ikTNbWmIcQaX1IdHrYSI/)
 - https://www.revithaca.com/events/
