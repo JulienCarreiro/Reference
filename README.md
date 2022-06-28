@@ -2,7 +2,9 @@
 random files and stuff
 
 [Unsorted links](links.md)
+
 [LIST OF STUFF TO BUY!!](buy.md)
+
 [REV parking](rev-parking.png)
 
 ### Resources
