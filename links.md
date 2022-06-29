@@ -88,11 +88,13 @@
 - [CRM Systems | AlternativeTo](https://alternativeto.net/category/business-and-commerce/customer-relationship-manager/)
 - [Online Services | AlternativeTo](https://alternativeto.net/category/online-services/)
 
+### Tilde
+
 - [Thunix](https://www.thunix.net/)
-- [Ctrl-C Club!](https://ctrl-c.club/)
-- [Index of /](https://rw.rs/)
-- [envs.net | environments](https://envs.net/)
-- [Cosmic Voyage - Messages from Humanity's Stellar Diaspora](https://cosmic.voyage/)
+- [tildeclub/tilde.club: Code and documentation for setting up and managing a tilde.club server](https://github.com/tildeclub/tilde.club)
+- [tilde.club wiki](https://tilde.club/wiki/)
+
+### project mgmt/notes
 
 - [OpenProject Community Edition - Free and Open Source](https://www.openproject.org/community-edition/)
 - [Joplin](https://joplinapp.org/)
@@ -117,6 +119,8 @@
 
 - [ViewDNS.info - Your one source for DNS related tools!](https://viewdns.info/)
 
+### flutter stuff
+
 - [GitHub - fluttertools/sidekick: A simple app to make Flutter development more delightful](https://github.com/fluttertools/sidekick)
 - [GitHub - ardera/flutter-pi: A light-weight Flutter Engine Embedder for Raspberry Pi that runs without X.](https://github.com/ardera/flutter-pi#touchscreen-latency)
 - [GitHub - leanflutter/awesome-flutter-desktop: A curated list of awesome things related to Flutter desktop.](https://github.com/leanflutter/awesome-flutter-desktop)
@@ -125,6 +129,8 @@
 - [Flutter Layout Cheat Sheet. Do you need simple layout samples for… | by Tomek Polański | Flutter Community | Medium](https://medium.com/flutter-community/flutter-layout-cheat-sheet-5363348d037e)
 - [Getting Started With Flutter | raywenderlich.com](https://www.raywenderlich.com/24499516-getting-started-with-flutter)
 - [GitHub - antz22/ultimate-guide-to-flutter: A comprehensive guide on learning how to code cross platform mobile applications with the Flutter framework, from the ground up.](https://github.com/antz22/ultimate-guide-to-flutter)
+
+### electron
 
 - [Essential Electron](https://jlord.us/essential-electron/)
 - [Max Ogden's Website](https://maxogden.com/electron-fundamentals.html)
