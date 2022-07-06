@@ -1,5 +1,7 @@
 ## Links to stuff we should buy!
 
+[Copy of our order form](/order-form.html)
+
 ### Mouser
 - [Throw-in watel level sensor](https://www.mouser.com/ProductDetail/DFRobot/KIT0139?qs=PzGy0jfpSMuk6fgHiEc9Rw%3D%3D)
 - [Non-contact water sensor](https://www.mouser.com/ProductDetail/DFRobot/SEN0204?qs=lqAf%2FiVYw9jUiIGa1q6XQw%3D%3D)
