@@ -9,9 +9,9 @@ random files and stuff
 
 ### Resources
 - [REV reading list](https://docs.google.com/document/d/1tJlTiknf-vGsDc-3-8nxgw7ikTNbWmIcQaX1IdHrYSI/)
+- [Order form](https://airtable.com/shry0TqNhk7ipGeVu)
 - https://www.revithaca.com/events/
 - https://docs.google.com/spreadsheets/d/1UafdvXikU3PJpgKFzSn_8BxVGx0JiCz-kc-ARXgMDvA/htmlembed
-
 
 ### Useful programming links
 - https://github.com/flutter/flutter
