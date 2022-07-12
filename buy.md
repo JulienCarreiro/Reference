@@ -20,3 +20,9 @@
 - [8 relay hat for raspi](https://thepihut.com/products/8-relay-card-v2-for-raspberry-pi)
 - [Light color sensor](https://thepihut.com/products/bh1745-luminance-and-colour-sensor-breakout)
 - [Wide angle night vision camera](https://thepihut.com/products/raspberry-pi-camera-board-night-vision-and-fisheye-160-lens-5mp)
+
+
+### System Parts
+- 5 gallon resevoir ~ 24" x 10" x 7" (https://www.classacustoms.com/SPOUTED-7-Gallon-Fresh-Gray-Water-Holding-Tank_p_226.html) 
+- 
+- 
